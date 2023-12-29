@@ -7,6 +7,4 @@ wget
 ocl-icd-opencl-dev
 opencl-headers
 clinfo
-libclblast-dev
 libopenblas-dev
-openxlab
