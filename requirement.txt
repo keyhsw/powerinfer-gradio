@@ -1,0 +1,12 @@
+pytest
+cmake
+scikit-build
+setuptools
+fastapi
+uvicorn
+sse-starlette
+pydantic-settings
+starlette-context
+gradio
+huggingface_hub
+hf_transfer
