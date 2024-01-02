@@ -11,3 +11,4 @@ gradio
 huggingface_hub
 hf_transfer
 openxlab
+openpyxl
