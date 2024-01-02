@@ -4,4 +4,4 @@ openxlab model download --model-repo 'yixinsong/Falcon-40B' --model-name 'Falcon
 CMAKE_ARGS="-DLLAMA_CUBLAS=on" python3 -m pip install git+https://github.com/hodlen/llama-cpp-python.git@perf --force-reinstall
 pip install openpyxl
 pip uninstall gradio
-pip install gradio
+pip install gradio==4.12.0
