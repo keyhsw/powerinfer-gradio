@@ -1,7 +1,5 @@
 git
 build-essential
-python3.10
-python3-pip
 gcc
 wget
 ocl-icd-opencl-dev
